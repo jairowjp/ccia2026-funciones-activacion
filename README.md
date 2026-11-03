@@ -14,8 +14,9 @@ Material suplementario del artículo *Las funciones de activación en la evoluci
 | `corpus/` | `corpus.csv` | Los 68 documentos del corpus, con su vía de entrada, su criterio y su número de referencia en el artículo |
 | `codigo/` | `propiedades.py` | Calcula la Tabla 2 |
 | `codigo/` | `experimento_gradiente.py` | Experimento de la Sección 5 |
-| `codigo/` | `figura_gradiente.py` | Genera la Fig. 2 |
-| `resultados/` | `*.csv`, `fig2_gradiente.png` | Salidas de los scripts |
+| `codigo/` | `figura_gradiente.py` | Genera la Fig. 3 |
+| `resultados/` | `*.csv`, `fig2_gradiente.png` | Salidas de los scripts (la figura corresponde a la Fig. 3 del artículo) |
+| `resultados/` | `prisma_2020_en.png`, `prisma_2020_es.png` | Diagrama PRISMA 2020 de la selección (Fig. 1 del artículo), 1200 dpi |
 
 Las exportaciones de Scopus solo incluyen identificadores bibliográficos. Los resúmenes y las listas de referencias no se redistribuyen.
 
