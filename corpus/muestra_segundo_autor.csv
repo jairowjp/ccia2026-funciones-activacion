@@ -1,0 +1,21 @@
+id,referencia,decision_segundo_autor
+215,"Widrow B.; Hoff M.E., Adaptive switching circuits: Tech. rep., (1960)",Incluir
+40,"Klambauer G.; Unterthiner T.; Mayr A.; Hochreiter S., Self-normalizing neural networks, Advances in Neural Information Processing Systems, pp. 971-980, (2017)",Incluir
+59,"Grelsson B.; Felsberg M., Improved learning in convolutional neural networks with shifted exponential linear units (shelus), International Conference on Pattern Recognition, pp. 517-522, (2018)",Excluir
+103,"Scardapane S.; Van Vaerenbergh S.; Totaro S.; Uncini A., Kafnets: Kernel-based non-parametric activation functions for neural networks, Neural Networks, 110, pp. 19-32, (2019)",Excluir
+183,"Nguyen A.; Korikov A.M., Models of neural networks with fuzzy activation functions, IOP conference series: Materials science and engineering, Vol. 177, (2017)",Excluir
+165,"He K.; Zhang X.; Ren S.; Sun J., Identity mappings in deep residual networks, European conference on computer vision, pp. 630-645, (2016)",Excluir
+63,"Mishra A.; Chandra P.; Ghose U.; Sodhi S.S., Bi-modal derivative adaptive activation function sigmoidal feedforward artificial neural networks, Applied Soft Computing, 61, pp. 983-994, (2017)",Excluir
+106,"Kobayashi M., Singularities of three-layered complex-valued neural networks with split activation function, IEEE Transactions on Neural Networks and Learning Systems, 29, 5, pp. 1900-1907, (2017)",Excluir
+42,"Trottier L.; Gigu P.; Chaib-draa B., Parametric exponential linear unit for deep convolutional neural networks, IEEE International Conference on Machine Learning and Applications, pp. 207-214, (2017)",Excluir
+163,"Haykin S., Neural networks: a comprehensive foundation, (1994)",Excluir
+15,"Elfwing S.; Uchibe E.; Doya K., Sigmoid-weighted linear units for neural network function approximation in reinforcement learning, Neural Networks, 107, pp. 3-11, (2018)",Incluir
+24,"Maas A.L.; Hannun A.Y.; Ng A.Y., Rectifier nonlinearities improve neural network acoustic models, 30, (2013)",Incluir
+186,"Pang Y.; Sun M.; Jiang X.; Li X., Convolution in convolution for network in network, IEEE Transactions on Neural Networks and Learning Systems, 29, 5, pp. 1587-1597, (2017)",Excluir
+52,"Godfrey L.B., An evaluation of parametric activation functions for deep learning, pp. 3006-3011, (2019)",Incluir
+195,"Sibi P.; Jones S.A.; Siddarth P., Analysis of different activation functions using back propagation neural networks, Journal of Theoretical and Applied Information Technology, 47, 3, pp. 1264-1268, (2013)",Incluir
+19,"Clevert D.-A.; Unterthiner T.; Hochreiter S., Fast and accurate deep network learning by exponential linear units (elus), International Conference on Learning Representations, (2016)",Incluir
+126,"Wang Y.; Li Y.; Song Y.; Rong X., The influence of the activation function in a convolution neural network model of facial expression recognition, Applied Sciences, 10, 5, (2020)",Excluir
+194,"Shah A.; Kadam E.; Shah H.; Shinde S.; Shingade S., (2016)",Incluir
+25,"He K.; Zhang X.; Ren S.; Sun J., Delving deep into rectifiers: Surpassing human-level performance on imagenet classification, IEEE international conference on computer vision, pp. 1026-1034, (2015)",Incluir
+85,"Sun K.; Yu J.; Zhang L.; Dong Z., A convolutional neural network model based on improved softplus activation function, International Conference on Applications and Techniques in Cyber Security and Intelligence, pp. 1326-1335, (2019)",Excluir
